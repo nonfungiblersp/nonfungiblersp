@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nonfungiblersp
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning CS50X
+- 🌱 I’m currently studing MCA
 - 💞️ I’m looking to collaborate on CS50X with students
 - 📫 How to reach me via email ( saiprasadrudra8@gmail.com )
 
