@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nonfungiblersp
 - 👀 I’m interested in web development
 - 🌱 I’m currently studing MCA
-- 📫 How to reach me via email <br>
+- 📫 How to reach me via email
 - ( saiprasadrudra8@gmail.com )
 
 <!---
