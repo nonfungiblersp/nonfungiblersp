@@ -8,7 +8,7 @@
 - ✨ I'm diving into ASP.NET Core to learn how to build robust backend applications.
 
 ## 📫 How to reach me via email
-   (saiprasadrudra10@gmail.com)
+   saiprasadrudra10@gmail.com
 
 ## Languages and Tools:
 <p align="left"> 
