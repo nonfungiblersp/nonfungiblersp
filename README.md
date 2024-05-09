@@ -4,4 +4,4 @@
 - 🌱 I’m currently studing MCA
 - ✨ I'm diving into ASP.NET Core to learn how to build robust backend applications.
 ## 📫 How to reach me via email
-   ( saiprasadrudra8@gmail.com )
+   ( saiprasadrudra10@gmail.com )
