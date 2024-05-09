@@ -1,6 +1,8 @@
 #  **Rudra SaiPrasad**
 
+/*
 ![Rudra SaiPrasad](https://raw.githubusercontent.com/nonfungiblersp/nonfungiblersp/main/profile.jpeg.jpg)
+*/
 
 
 ## About
