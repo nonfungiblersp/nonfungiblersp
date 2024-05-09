@@ -1,9 +1,4 @@
-#  **Rudra SaiPrasad**
-
-/*
-![Rudra SaiPrasad](https://raw.githubusercontent.com/nonfungiblersp/nonfungiblersp/main/profile.jpeg.jpg)
-*/
-
+#  Hi  i am  **Rudra SaiPrasad**
 
 ## About
 I'm currently working towards my Master's in Computer Applications (MCA) and actively expanding my web development skillset. I'm diving into ASP.NET Core to learn how to build robust backend applications.  In addition to that, I'm familiar with React.js for creating dynamic user interfaces and possess a solid foundation in the core web technologies of HTML, CSS, and JavaScript. This combination allows me to tackle projects from both the front-end and back-end, bringing a well-rounded perspective to web development. 
