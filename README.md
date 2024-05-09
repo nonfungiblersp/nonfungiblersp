@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @nonfungiblersp
+![Rudra SaiPrasad](https://scontent.fstv7-1.fna.fbcdn.net/v/t39.30808-6/438804742_3647178882277113_6922863770846676434_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=KurrsO2cf3YQ7kNvgGwmQOZ&_nc_ht=scontent.fstv7-1.fna&oh=00_AfD6df253hMJiCI1W1v3GQGtImAMrA4pgxSKw7T-R3sn1Q&oe=66420F96)
+- ##**Rudra SaiPrasad**
 - 👀 I’m interested in web development
 - 🌱 I’m currently studing MCA
-- 📫 How to reach me via email
-- ( saiprasadrudra8@gmail.com )
-
-<!---
-nonfungiblersp/nonfungiblersp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ✨ I'm diving into ASP.NET Core to learn how to build robust backend applications.
+- ##📫 How to reach me via email
+-- ###( saiprasadrudra8@gmail.com )
