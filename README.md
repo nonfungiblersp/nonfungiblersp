@@ -1,6 +1,6 @@
 #  **Rudra SaiPrasad**
 
-![Rudra SaiPrasad](profile.jpeg)
+![Rudra SaiPrasad](profile.jpeg.jpeg)
 
 
 
