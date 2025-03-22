@@ -1,7 +1,7 @@
 #  Hi  i am  **Rudra SaiPrasad**
 
 ## About
-I'm currently working towards my Master's in Computer Applications (MCA) and actively expanding my web development skillset. I'm diving into ASP.NET Core to learn how to build robust backend applications.  In addition to that, I'm familiar with React.js for creating dynamic user interfaces and possess a solid foundation in the core web technologies of HTML, CSS, and JavaScript. This combination allows me to tackle projects from both the front-end and back-end, bringing a well-rounded perspective to web development. 
+I'm a MERN stack developer actively working on both frontend and backend development. I specialize in React.js with Material UI and the latest Tailwind CSS for building modern, responsive UIs. In my company projects, I focus on creating efficient, scalable applications that leverage cutting-edge technologies. Currently, I'm working as a trainee at Paroksya, where I continue to refine my skills and contribute to real-world projects.
 
 
 
@@ -11,6 +11,8 @@ I'm currently working towards my Master's in Computer Applications (MCA) and act
 
 ## Languages and Tools:
 <p align="left"> 
+   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40"
+                                                                       height="40"/> </a>
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"   
                                                                            height="40"/> </a>
    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"
@@ -26,6 +28,4 @@ I'm currently working towards my Master's in Computer Applications (MCA) and act
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40"
                                                                          height="40"/></a> 
    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/</a
-   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40"
-                                                                       height="40"/> </a>
 </p>
