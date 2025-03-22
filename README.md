@@ -20,4 +20,6 @@ I'm a MERN stack developer actively working on both frontend and backend develop
                                                                                  height="40"/> </a>
    <a href="https://learn.microsoft.com/en-us/windows/dev-environment/javascript/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png"
                                                                                                                         alt="javascript" width="40" height="40"/> </a> 
+   <a href="[https://learn.microsoft.com/en-us/windows/dev-environment/javascript/](https://tailwindcss.com/)" target="_blank" rel="noreferrer"> <img src="https://images.seeklogo.com/logo-png/35/1/tailwind-css-logo-png_seeklogo-354675.png"
+                                                                                                                        alt="javascript" width="40" height="40"/> </a> 
 </p>
